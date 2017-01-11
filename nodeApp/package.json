@@ -1,0 +1,16 @@
+{
+  "name": "csvtojsonconverter",
+  "version": "1.0.0",
+  "description": "this application will convert csv into json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yogesh Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^1.1.0",
+    "express": "^4.14.0",
+    "lodash": "^4.17.4"
+  }
+}
